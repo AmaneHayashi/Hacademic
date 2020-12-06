@@ -1,11 +1,5 @@
 package com.amane.demo;
 
-/**
- * @author Amane Hayaashi
- * @date 2020/11/24
- * @since 1.0
- */
-
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;

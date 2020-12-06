@@ -13,12 +13,6 @@ import org.apache.log4j.BasicConfigurator;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author Amane Hayaashi
- * @date 2020/11/27
- * @since 1.0
- */
-
 public class HBaseDemo {
 
     /**
